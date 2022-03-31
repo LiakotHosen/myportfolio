@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Malicious Bangla ",
+        "image": "   ",
+        "about": 
+            "The increasing use of social media and information ",
+        "technologies": ["NLP", "TF-IDF", "Count Vector", "N-Gram", "Google Colab", "Diffrent ML Models", "Excle"],
+        "repo": "https://github.com/LiakotHosen/NLP_machineLearning",
+        "site": "  "
+    },
+    {
+        "title": "Ecommerce Web Application",
+        "image": " ",
+        "about": 
+            "A Web based Application where Electronics products store and sales",
+        "technologies": ["JavaScript", "HTML", "CSS", "php", "MySql" ],
+        "repo": "https://github.com/",
+        "site": " "
+    },
+    {
+        "title": "Food Order web Application",
+        "image": "  ",
+        "about": 
+            "A Web based Application that is based on Rasturant HTML, CSS, Bootstrap, JavaScript, php that enlighten an e-commerce web site",
+        "technologies": ["JavaScript", "HTML", "CSS", "php", "MySql" ],
+        "repo": "https://github.com/",
+        "site": " "
+    }
+]
